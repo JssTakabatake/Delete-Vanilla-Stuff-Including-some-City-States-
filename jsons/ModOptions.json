@@ -1,5 +1,6 @@
+// This fork is mainly (maybe even only) for Civ6 Nations for Unciv Mod. That's why i have added (deleted) select city-states.
 {
-    "nationsToRemove":["Babylon","Greece","China","Egypt","England","France","Russia","Rome","Arabia","America","Japan","India","Germany","The Ottomans","Korea","Iroquois","Persia","Polynesia","Siam","Spain","Songhai","Mongolia","Aztecs","Inca","Denmark","The Huns","The Netherlands","Sweden","Austria","Carthage","Byzantium","Celts","Ethiopia","The Maya"],
+        "nationsToRemove":["Babylon","Greece","China","Egypt","England","France","Russia","Rome","Arabia","America","Japan","India","Germany","The Ottomans","Korea","Iroquois","Persia","Polynesia","Siam","Spain","Songhai","Mongolia","Aztecs","Inca","Denmark","The Huns","The Netherlands","Sweden","Austria","Carthage","Byzantium","Celts","Ethiopia","The Maya","Rio de Janeiro","Sydney","Vancouver","Quebec City","Ur"],
 	"buildingsToRemove": ["Stele","Pyramid","Paper Maker","Floating Gardens","Walls of Babylon","Krepost","Burial Tomb","Mud Pyramid Mosque","Bazaar","Longhouse","Wat","Mughal Fort","Ceilidh Hall","Satrap's Court","Coffee House"],
 	"unitsToRemove": [
         "Maori Warrior", "Jaguar", 
